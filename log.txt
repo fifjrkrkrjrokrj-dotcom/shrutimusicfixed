@@ -1,0 +1,88 @@
+[26-May-26 13:49:11 - INFO] - ShrutiMusic.core.mongo - Connecting to your Mongo Database...
+[26-May-26 13:49:11 - INFO] - ShrutiMusic.core.mongo - Connected to your Mongo Database.
+[26-May-26 13:49:11 - INFO] - ShrutiMusic.core.dir - Directories Updated.
+[26-May-26 13:49:12 - INFO] - ShrutiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[26-May-26 13:49:12 - INFO] - ShrutiMusic.misc - Local Database Initialized.
+[26-May-26 13:49:12 - INFO] - ShrutiMusic.core.bot - Starting bot...
+[26-May-26 13:49:52 - INFO] - ShrutiMusic.misc - Sudoers Loaded.
+[26-May-26 13:50:23 - INFO] - ShrutiMusic - Bot commands set successfully!
+[26-May-26 13:53:11 - INFO] - ShrutiMusic.core.mongo - Connecting to your Mongo Database...
+[26-May-26 13:53:11 - INFO] - ShrutiMusic.core.mongo - Connected to your Mongo Database.
+[26-May-26 13:53:11 - INFO] - ShrutiMusic.core.dir - Directories Updated.
+[26-May-26 13:53:11 - INFO] - ShrutiMusic.core.git - Git Client Found [VPS DEPLOYER]
+[26-May-26 13:53:11 - INFO] - ShrutiMusic.misc - Local Database Initialized.
+[26-May-26 13:53:11 - INFO] - ShrutiMusic.core.bot - Starting bot...
+[26-May-26 13:53:26 - INFO] - ShrutiMusic.misc - Sudoers Loaded.
+[26-May-26 13:53:40 - INFO] - ShrutiMusic - Bot Started Successfully!
+[26-May-26 13:53:40 - INFO] - ShrutiMusic - Bot commands set successfully!
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.auth
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.callback
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.loop
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.pause
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.resume
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.seek
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.shuffle
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.skip
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.speed
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .admins.stop
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .bot.botlogs
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .bot.help
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .bot.inline
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .bot.privacy
+[26-May-26 13:53:40 - INFO] - ShrutiMusic.plugins - Imported => .bot.settings
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .bot.start
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .misc.autoleave
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .misc.broadcast
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .misc.seeker
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .misc.watcher
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .play.channel
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .play.live
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .play.play
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .play.playmode
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.autoend
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.blchat
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.block
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.gban
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.logger
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.maintenance
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.restart
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .sudo.sudoers
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .tools.active
+[26-May-26 13:53:41 - INFO] - ShrutiMusic.plugins - Imported => .tools.awelcome
+[26-May-26 13:53:42 - INFO] - ShrutiMusic.plugins - Imported => .tools.babusona
+[26-May-26 13:53:42 - INFO] - ShrutiMusic.plugins - Imported => .tools.ban
+[26-May-26 13:53:42 - INFO] - ShrutiMusic.plugins - Imported => .tools.bots
+[26-May-26 13:53:43 - INFO] - ShrutiMusic.plugins - Imported => .tools.couple
+[26-May-26 13:53:43 - INFO] - ShrutiMusic.plugins - Imported => .tools.dev
+[26-May-26 13:53:43 - INFO] - ShrutiMusic.plugins - Imported => .tools.downloader
+[26-May-26 13:53:43 - INFO] - ShrutiMusic.plugins - Imported => .tools.downloadrepo
+[26-May-26 13:53:44 - INFO] - ShrutiMusic.plugins - Imported => .tools.fonts
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.force_subscription
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.fun
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.info
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.invitelink
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.language
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.lovebirds
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.markdown
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.mongochk
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.ping
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.queue
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.reload
+[26-May-26 13:53:45 - INFO] - ShrutiMusic.plugins - Imported => .tools.speedtest
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.stats
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.tag
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.td
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.telegraph
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.tts
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.vc_manage
+[26-May-26 13:53:46 - INFO] - ShrutiMusic.plugins - Imported => .tools.vclogger
+[26-May-26 13:53:47 - INFO] - ShrutiMusic.plugins - Imported => .tools.welcome
+[26-May-26 13:53:47 - INFO] - ShrutiMusic.plugins - Imported => .tools.wish
+[26-May-26 13:53:47 - INFO] - ShrutiMusic.plugins - Imported => .tools.zombies
+[26-May-26 13:53:47 - INFO] - ShrutiMusic.plugins - All Modules Imported!
+[26-May-26 13:53:47 - INFO] - ShrutiMusic.core.userbot - Starting Assistants...
+[26-May-26 13:53:52 - INFO] - ShrutiMusic - Assistant Started!
+[26-May-26 13:53:52 - INFO] - ShrutiMusic.core.call - Starting PyTgCalls Client...
+
+[26-May-26 13:54:26 - INFO] - ShrutiMusic - Voice Client Started!
+[26-May-26 13:54:54 - INFO] - ShrutiMusic - Shruti Music Started Successfully!
